@@ -1,0 +1,32 @@
+{
+  "name": "vscode-gari-theme",
+  "displayName": "Gari Theme",
+  "description": "Simple themes besed on Modern Light/Dark. For Python, Rust and more.",
+  "version": "0.3.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/garigngr/vscode-gari-theme.git"
+  },
+  "publisher": "garigngr",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gari Light",
+        "uiTheme": "vs",
+        "path": "./themes/gari-light-color-theme.json"
+      },
+      {
+        "label": "Gari Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gari-dark-color-theme.json"
+      }
+    ]
+  }
+}
