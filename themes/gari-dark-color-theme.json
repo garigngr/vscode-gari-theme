@@ -188,6 +188,12 @@
 			"scope": [
 				"constant",
 				"support",
+				"keyword.operator.new",
+				"keyword.operator.cast",
+				"keyword.operator.sizeof",
+				"keyword.operator.alignof",
+				"keyword.operator.typeid",
+				"keyword.operator.logical.python",
 			],
 			"settings": {
 				"foreground": "#fb8",
@@ -195,7 +201,6 @@
 		},
 		{
 			"scope": [
-				"keyword.operator.logical.python",
 				"variable.language",
 				"variable.parameter.function.language.special",
 			],

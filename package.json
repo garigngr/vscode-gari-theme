@@ -2,7 +2,7 @@
   "name": "vscode-gari-theme",
   "displayName": "Gari Theme",
   "description": "Simple themes besed on Modern Light/Dark. For Python, Rust and more.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/garigngr/vscode-gari-theme.git"
