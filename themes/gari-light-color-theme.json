@@ -191,24 +191,9 @@
 			"scope": [
 				"constant",
 				"support",
-				"keyword.operator.new",
-				"keyword.operator.cast",
-				"keyword.operator.sizeof",
-				"keyword.operator.alignof",
-				"keyword.operator.typeid",
-				"keyword.operator.logical.python",
 			],
 			"settings": {
 				"foreground": "#a00",
-			}
-		},
-		{
-			"scope": [
-				"variable.language",
-				"variable.parameter.function.language.special",
-			],
-			"settings": {
-				"foreground": "#00f",
 			}
 		},
 		{
@@ -218,6 +203,23 @@
 			],
 			"settings": {
 				"foreground": "#04f",
+			}
+		},
+		{
+			"scope": [
+				"variable.language",
+				"variable.parameter.function.language.special",
+				// wordlike operator for python 
+				"keyword.operator.logical.python",
+				// wordlike operator for c++
+				"keyword.operator.new",
+				"keyword.operator.cast",
+				"keyword.operator.sizeof",
+				"keyword.operator.alignof",
+				"keyword.operator.typeid",
+			],
+			"settings": {
+				"foreground": "#00f",
 			}
 		},
 		{
