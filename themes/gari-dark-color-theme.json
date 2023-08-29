@@ -276,6 +276,16 @@
 				"foreground": "#ae8"
 			}
 		},
+		{
+			"scope": [
+				"comment.rainbow4",
+				"markup.bold.rainbow9",
+			],
+			"settings": {
+				"foreground": "#6df",
+				"fontStyle": "",
+			}
+		},
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {

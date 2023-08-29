@@ -279,6 +279,16 @@
 				"foreground": "#080"
 			}
 		},
+		{
+			"scope": [
+				"comment.rainbow4",
+				"markup.bold.rainbow9",
+			],
+			"settings": {
+				"foreground": "#00f",
+				"fontStyle": "",
+			}
+		},
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
