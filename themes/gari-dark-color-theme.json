@@ -179,6 +179,9 @@
 		{
 			"scope": [
 				"entity",
+				// for toml
+				"support.type.property-name.array",
+				"support.type.property-name.table",
 			],
 			"settings": {
 				"foreground": "#ee8",
@@ -283,5 +286,7 @@
 		"selfKeyword": "#6df",
 		"selfParameter": "#6df",
 		"parameter": "#8ff",
+		"tomlArrayKey": "#8ff",
+		"tomlTableKey": "#8ff",
 	},
 }
