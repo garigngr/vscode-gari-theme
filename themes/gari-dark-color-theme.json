@@ -146,7 +146,6 @@
 			"scope": "comment",
 			"settings": {
 				"foreground": "#666",
-				"fontStyle": "italic",
 			}
 		},
 		{

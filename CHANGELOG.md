@@ -1,5 +1,8 @@
 ## vscode-gari-theme
 
+### 0.5.0
+- Change comment style to normal
+
 ### 0.4.0
 - Adapted to the plugin "Even Better Toml"
 - Adapted to the plugin "Rainbow CSV"
